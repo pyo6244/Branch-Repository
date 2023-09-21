@@ -103,6 +103,8 @@ int main()
 
 	printf("Given array is \n");
 	printArray(arr, arr_size);
+	printf("what irano");
+	printf("didiidididdidid");
 
 	mergeSort(arr, 0, arr_size - 1);
 
