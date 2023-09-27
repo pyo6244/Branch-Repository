@@ -1,4 +1,6 @@
 // C program for Merge Sort omg landndnddn
+
+// C program for Merge Sort 고쳐버렸으요
 #include <stdio.h>
 #include <stdlib.h>
 
